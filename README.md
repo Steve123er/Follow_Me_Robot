@@ -1,6 +1,6 @@
 # Follow_Me_Robot
 
-Directory path for each file:
+Once all project dependencies have been installed, use the following paths for each file in the repo:
 /home/pi/assistant-sdk-cpp/src/assistant/robot_movement.h
 /home/pi/assistant-sdk-cpp/src/assistant/robot_movement.cc
 /home/pi/assistant-sdk-cpp/src/assistant/run_assistant_audio.cc
